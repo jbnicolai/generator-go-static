@@ -36,7 +36,7 @@
     "yamljs": "~0.1.4",
     "iniparser": "~1.0.5",
     "moment": "~2.1.0",
-    "chalk": "~0.2.1"
+    "chalk": "~1.0.0"
   },
   "devDependencies": {
     "mocha": "~1.12.0",
